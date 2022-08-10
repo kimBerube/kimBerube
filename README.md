@@ -1,4 +1,5 @@
 - 👋 .
+- 🙋‍♂️ Conseiller pédagogique numérique. 
 - 👀 Intérêt en programmation et en robotique à des fins pédagogiques.
 - 🌱 Apprendre sans arrêt. 
 -  ✌   Paix!
