@@ -1,4 +1,4 @@
-- 👋 Salut! 
-- 👀 J'ai de l'intérêt en programmation et en robotique à des fins pédagogiques.
-- 🌱 Je suis toujours en train d'apprendre! 
-- ✌  Paix!
+- 👋 .
+- 👀 Intérêt en programmation et en robotique à des fins pédagogiques.
+- 🌱 Apprendre sans arrêt. 
+-  ✌   Paix!
